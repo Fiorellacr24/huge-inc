@@ -42,7 +42,7 @@ window.addEventListener('load',function(event){
 		var figcaption = document.createElement('figcaption');
 		var span = document.createElement('span');
 		var img = document.createElement('img');
-		var url = "assets/img/coders/" + i + ".png";
+		var url = "assets/img/Coders/" + i + ".png";
 
 		img.setAttribute('src', url);
 		figure.appendChild(img);
